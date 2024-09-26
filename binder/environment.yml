@@ -1,4 +1,4 @@
-name: example-environment
+name: ncbi-demo
 channels:
   - conda-forge
   - bioconda
