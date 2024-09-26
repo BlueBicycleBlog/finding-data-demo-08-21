@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - datasets
+  - ncbi-datasets-cli
   - sra-tools
   - magicblast
   - blast
